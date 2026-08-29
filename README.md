@@ -4,7 +4,7 @@
 
 I'm a senior high student with a deep passion for technology and software development. I'm working hard toward becoming a **Fullstack Developer** for a major tech company someday.
 
-I'm still a beginner in coding, but I have high ambitions and I'm putting in **100% effort** every step of the way. This profile is where I'll be posting the projects, documents, and milestones from my journey — so feel free to follow along! 📚💻
+I'm still a beginner in coding, but I have high ambitions and I'm putting in **100% effort** every step of the way. This profile is where I'll be posting the projects, documents, and milestones from my journey.
 
 ---
 
