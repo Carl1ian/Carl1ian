@@ -26,13 +26,3 @@ I'm still a beginner in coding, but I have high ambitions and I'm putting in **1
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
----
-
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="mailto:frivaldocarlosjulian27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center"><i>Thanks for stopping by — more updates coming as I learn and build! 🚧</i></p>
-
