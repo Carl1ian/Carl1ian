@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Carlos Julian Frivaldo 👋</h1>
 
-### 🚀 About Me
+🚀 About Me
 
 I'm a senior high student with a deep passion for technology and software development. I'm working hard toward becoming a **Fullstack Developer** for a major tech company someday.
 
@@ -8,7 +8,7 @@ I'm still a beginner in coding, but I have high ambitions and I'm putting in **1
 
 ---
 
-### 🌱 Currently
+🌱 Currently
 
 - 🔭 Learning the fundamentals of programming and web development
 - 🌱 Exploring the path to becoming a Fullstack Developer
@@ -18,7 +18,7 @@ I'm still a beginner in coding, but I have high ambitions and I'm putting in **1
 
 ---
 
-### 🛠️ Tech I'm Learning / Exploring
+🛠️ Tech I'm Learning / Exploring
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
