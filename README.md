@@ -1,9 +1,4 @@
 <h1 align="center">Hi there, I'm Carlos Julian Frivaldo 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Senior+High+Student;Aspiring+Fullstack+Developer;Documenting+My+Coding+Journey;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🚀 About Me
