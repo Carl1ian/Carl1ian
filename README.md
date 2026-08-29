@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Carlos Julian Frivaldo 👋</h1>
----
 
 ### 🚀 About Me
 
